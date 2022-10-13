@@ -1,0 +1,18 @@
+h1 {
+  color: black;
+  text-align: center;
+}
+.listaskills {
+  color: rgb(28, 28, 28);
+  text-align: center;
+  border-style: dotted;
+  background-color: white;
+}
+body {
+  background-color: aliceblue;
+}
+.fotohtml {
+  display: block;
+  margin-left: auto;
+  margin-right: left;
+}
